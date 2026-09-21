@@ -1,0 +1,16 @@
+export const TEST_DATA = {
+  productName1: "Waracle Cap",
+  productName2: "Waracle Headset",
+  validCouponCode: "WARACLE25",
+  emptyCouponCode: "",
+  invalidCouponCode: "WARACLE35",
+  couponMessage: "Coupon “WARACLE25” applied",
+  couponName: "Coupon (WARACLE25)",
+  couponDiscount: 0.25,
+  shippingAddress: "10 Digital Drive",
+  shippindCity: "Edinburgh",
+  shippingPostcode: "EH1 1AA",
+  cardNumber: "4242424242424242",
+  expityDate: "12/26",
+  cvc: "123",
+};
