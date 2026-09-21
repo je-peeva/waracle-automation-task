@@ -4,7 +4,7 @@
   "description": "Automation testing project for Waracle web application ensuring the correct functionality of coupon code feature.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "playwright test"
   },
   "keywords": [],
   "author": "",
